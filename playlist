@@ -574,6 +574,491 @@ https://watchindia.net:8443/live/52651/57459/1956.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Saam
 https://watchindia.net:8443/live/52651/57459/921.ts
 
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels+",BBC One
+http://new.myindian.tv/api/m3u/stream/a7942e1036e47129ba630b8338c107d3cf28a1c0f978d0e2d52b7c749bece760.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels+",BBC Two
+http://new.myindian.tv/api/m3u/stream/4c66f419c9050cbba115b4c76abf90d1d7925200e1fd040bf558a3b40034f435.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels+",ITV 1
+http://new.myindian.tv/api/m3u/stream/0a94cffe108d257851425302622184bae2dc50a1a8f5eaa6d2adaa241aa460cb.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels+",ITV 2
+http://new.myindian.tv/api/m3u/stream/a41159fdd98b65e3060ce439aabfd159a39e1cf6317f1e87daa992b15f061ebf.m3u8
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels+",Channel 4
+http://new.myindian.tv/api/m3u/stream/4b916a671c0bb7a4cd7493316eedc2b720a491adad8ab7157cc65b4479e73434.m3u8
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels+",Channel 5
+http://new.myindian.tv/api/m3u/stream/ec44b02fe24c442a4efed40f8ac9e99b443ca9888db0e74ba047b3318cf1c796.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels+",Sky Sports Main Event
+http://new.myindian.tv/api/m3u/stream/12acca3aacee09472e975b50508676b04ed616f8d30fd515ac31e669d1b3d5b2.m3u8
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels+",Sky News
+http://new.myindian.tv/api/m3u/stream/82fd277d7e4c4a14f97c7a52c50c3a44504bfc69aa3de78b512e89612b6ec5a1.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels+",Sky Sports Cricket
+http://new.myindian.tv/api/m3u/stream/4e3336092d76e5f0c672668d22ee2a1b6499d274e718f9d4faf859c9d346be31.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.in" group-title="Channels+",Cartoon Network
+http://new.myindian.tv/api/m3u/stream/786f7a1fcb1821ccebe752b66f9e36e3014a40f5b1e8fd0b26d79e5cd2dac57d.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.in" group-title="Channels+",Animal Planet
+http://new.myindian.tv/api/m3u/stream/cad39d36e518edab7cd6f4d1b9abdbbf1dccf721340a2b62a1fc1a20c5080ff7.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels+",DiscoveryChannel
+http://new.myindian.tv/api/m3u/stream/8671584881d89f0ef00dec8f89f008852cbadca9719a2d28355ab6c8873c7a4e.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.in" group-title="Channels+",Nat Geo Wild
+http://new.myindian.tv/api/m3u/stream/4a52c5cd717395ffcb0b2f8a7a204a9e7d7356b5f31ffdea2cff4d97f8e6d73e.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels+",Nat Geo Channel
+http://new.myindian.tv/api/m3u/stream/b24b36a94eaa635324ff8813867f28405c576685c8fd09dd0e89451a7f04e93b.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Channels+",Al Jazeera English
+http://new.myindian.tv/api/m3u/stream/6b94c4e43cb2132e291fdbbdf00c92201e85c844767a7f9cc2b9cd1790fc999d.m3u8
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels+",Gold
+http://new.myindian.tv/api/m3u/stream/ea31441c797078ee9846cdbc15c62311759c0277af3f10dd8c5f0f61f9512d88.m3u8
+#EXTINF:0 tvg-id="Vh1.in" group-title="Channels+",VH1
+http://new.myindian.tv/api/m3u/stream/ed941bbe49080c2054deff548dcc7b1bd14f86f4d1df041b0c9e62154cc65471.m3u8
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels+",Dave
+http://new.myindian.tv/api/m3u/stream/5ecc52a1201d28b3a249f13656b88122999e9215cef945fd474c5dff81a74d25.m3u8
+#EXTINF:0 tvg-id="Home.uk" group-title="Channels+",Home
+http://new.myindian.tv/api/m3u/stream/6ff61ce628356ae8a864d156e698e1a87e34e3231a8a8f835c94afb13773abfa.m3u8
+#EXTINF:0 tvg-id="Eden.uk" group-title="Channels+",Eden
+http://new.myindian.tv/api/m3u/stream/cb4e2bd568e7085633c5e147810b672990ecfb09b4a72b0165afc2b5d44e4767.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels+",BT Sport 1
+http://new.myindian.tv/api/m3u/stream/1cfec38acc96e86d5948bdb56259709c5cb5a32850899eb150d262e0aa22f5b2.m3u8
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels+",Film 4
+http://new.myindian.tv/api/m3u/stream/bf83dec83b10242fe22c5fd3cd94e1b84a6b65c83dced379b3b0c610e083bf0c.m3u8
+#EXTINF:0 tvg-id="NickJunior.in" group-title="Channels+",Nick Jr
+http://new.myindian.tv/api/m3u/stream/7a5093eda63b1939cbc31fa3115faeb43c9972f0f8510e8a0ec60a278783d5cef6.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.in" group-title="Channels+",Nickelodeon
+http://new.myindian.tv/api/m3u/stream/824c8951dddc29bad5317b286a9b32b6c741a36bf449a85983a0f3a4574b0ec50f.m3u8
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels+",CBS Drama
+http://new.myindian.tv/api/m3u/stream/4c0da33a4031a95f3ec2028fe9c26a7ba2e61d5eab2a8b6d724cbd733feba3bff3.m3u8
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels+",BBC News
+http://new.myindian.tv/api/m3u/stream/8f6ba57a9b13066bb7f8de94d33ef19007fb1b4b12e573f01b698aac078a909e6d.m3u8
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels+",Drama
+http://new.myindian.tv/api/m3u/stream/aca708e80f84844240046f2584df83165bd448d8e9d1097c3408d20da0d921cda7.m3u8
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels+",Sky Sports Premier League
+http://new.myindian.tv/api/m3u/stream/7f5f6dc1788042d23fbd19127ff7b412da55a6c3f804203e33bd43a5c6dfe68635.m3u8
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Channels+",AAJ Tak UK
+http://new.myindian.tv/api/m3u/stream/23eaf4868a106b6610411a516767dfea36eb4a017539b992f4e4691069a3097b2d.m3u8
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Channels+",Adithya TV
+http://new.myindian.tv/api/m3u/stream/0c54fd1a1219ba207e332e85307810ce29d051b3bd185ee977a305a67cee47c28c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",B4U Movies UK
+http://new.myindian.tv/api/m3u/stream/f5900b3a733f049e6501309f656a5828ef632c52f870d01c4c1009e467128671d8.m3u8
+#EXTINF:0 tvg-id="GeoUK.uk" group-title="Channels+",GEO
+http://new.myindian.tv/api/m3u/stream/c300e65c64538809b1909a605c35258775879197078ac8f7f1be65c3515738d8dc.m3u8
+#EXTINF:0 tvg-id="GEONews.uk" group-title="Channels+",GEO News
+http://new.myindian.tv/api/m3u/stream/37834beff9aaeae3384e00783550927ab221f7e69995db253f1e1f42d3b5d1cdff.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Jaya
+http://new.myindian.tv/api/m3u/stream/610b2a65de31b51af3c99a7f66ed9267d47743b18c392081cc792cd4a979d71ca1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",K TV HD
+http://new.myindian.tv/api/m3u/stream/1ca9054c34911bd47fb724ea1153b59084bf3c5ed22d415c07488f6cfdbd1b96d9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",UK SAB TV
+http://new.myindian.tv/api/m3u/stream/3c1897fbeb69e07017e97838e6f9e2e78671694b6d37c9fd522a9feae15896ea7f.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Channels+",SET Max
+http://new.myindian.tv/api/m3u/stream/7bb9aa9ab349af30fdeb1fa05475f8ca56d809c93dd0e92e304258a4c62ee2905e.m3u8
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels+",Sony Entertainment
+http://new.myindian.tv/api/m3u/stream/87f1067162cee3976b3143cbb50754179014115919046f9e94705a4d96fb858734.m3u8
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Channels+",Star plus UK
+http://new.myindian.tv/api/m3u/stream/130abd93d28b07391f18e02e5108dfc0f8c7ef77837273de83d369a0e18320c794.m3u8
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Channels+",Sun TV HD
+http://new.myindian.tv/api/m3u/stream/0cc70d920e9b7f36f8ca12585cf160cf7739b209641f5bd0e076939e4d46a98226.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Channels+",Zee Cinema UK
+http://new.myindian.tv/api/m3u/stream/a843e8a37703a40158690a7702d76678613be21428c9012f8aed9a82ddb2e44d35.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Channels+",Zee Tv UK
+http://new.myindian.tv/api/m3u/stream/b0c9212fb81dd8ae561eb500d7163c9e53c9c7a4586c5fb42c6c5a07befd127a91.m3u8
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels+",ABC
+http://new.myindian.tv/api/m3u/stream/7f5a7110b0b20746f1ec53f9771c6d160239a48f686fb2319c0698790b523a9f1f.m3u8
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels+",CBS
+http://new.myindian.tv/api/m3u/stream/4576ecbc2b313821efc1fd1eea62c6807334faf7b8c8970acd4f27fc8c2af2707f.m3u8
+#EXTINF:0 tvg-id="FX.in" group-title="Channels+",FX
+http://new.myindian.tv/api/m3u/stream/347a28298c8d721e52bb48015689fc8dc6170cc985c3eee47f6c1195a84304c314.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Channels+",Food Network
+http://new.myindian.tv/api/m3u/stream/193aa427c68fac67980a4fb34c8caee32cef8e501169f00fedd9cbf1e6ca342cd0.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels+",Disney Junior
+http://new.myindian.tv/api/m3u/stream/77532938b2a767a5d654e03ed284f15987013d3bb54cd785ff4321c4ea29036cc9.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels+",BT Sport 2
+http://new.myindian.tv/api/m3u/stream/0864399be40ffa366ae1d394214e3e92e46725c305ef4b5858cdb4639a09761179.m3u8
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels+",Sky Sports F1 HD
+http://new.myindian.tv/api/m3u/stream/99027fac9cee5028dbd821b06efd7473281eaf79717a976059597b4c7d1cdab462.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="Channels+",Colors UK
+http://new.myindian.tv/api/m3u/stream/1f286c74d8be504b65e0aa5c218022dbb3834c3b7adb91f3d4ab6adcab10c23899.m3u8
+#EXTINF:0 tvg-id="Rishtey.uk" group-title="Channels+",Rishtey UK
+http://new.myindian.tv/api/m3u/stream/b46181bb5770b8d92a645cb1f9c475ac737fbd4d277de9c1644777dccc9ff21e18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star Bharat UK
+http://new.myindian.tv/api/m3u/stream/af22508641ff8ad8ce006652d0b45f5fc883dbc8ebf027aa623daff30a36dec118.m3u8
+#EXTINF:0 tvg-id="FoodFood.in" group-title="Channels+",Food Food
+http://new.myindian.tv/api/m3u/stream/2dbd2cdf0288873c0a3859d47e1a6d9f06c51534db49182b147f176c195fdf2bc1.m3u8
+#EXTINF:0 tvg-id="StarGold.uk" group-title="Channels+",Star Gold UK
+http://new.myindian.tv/api/m3u/stream/1514416707d3ec69b3ac12592952aa7beec77ac825ddcba60d13a105c55d6c6183.m3u8
+#EXTINF:0 tvg-id="PTCPUNJABI.uk" group-title="Channels+",PTC Punjabi
+http://new.myindian.tv/api/m3u/stream/ce081fc456a56759025a1022f06f24c2ae6a2f7e023d41955a298f249b68c36561.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Bollywood Premier
+http://new.myindian.tv/api/m3u/stream/3840b6d546d7c292726996b5c8c856d16451f84e196fee843682237ee4f446e6b3.m3u8
+#EXTINF:0 tvg-id="ARYNews.uk" group-title="Channels+",ARY News
+http://new.myindian.tv/api/m3u/stream/d06eb3aacd89c5f8bec4281d3bad265f6a7d8d6e51ed01cec4eb2305aeba444148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Hum TV HD
+http://new.myindian.tv/api/m3u/stream/c4fc5f5f775ad2252bdc3ed0a3382612fdc283080309e13d0bae64de81066b6d3c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",NDTV
+http://new.myindian.tv/api/m3u/stream/2fbc85b64bbcfafd20ae2a85e0c5061243fcaa7d58c19f42dfbccf819f4c297d98.m3u8
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="Channels+",ABP news
+http://new.myindian.tv/api/m3u/stream/cf9bbf048649a9c8b1d7594db04c396e83d3953a5e364567d13fec2daf3cad821a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",B4U Music UK
+http://new.myindian.tv/api/m3u/stream/e1afa37722da5628e19ab1abba11aa61c4620246399d1dea814803c750de3d8736.m3u8
+#EXTINF:0 tvg-id="Colors.in" group-title="Channels+",Colors HD
+http://new.myindian.tv/api/m3u/stream/5e85da26b16ca3fbe6b47034674624fd860c91c8dd745c7e9511ab762f42776d0e.m3u8
+#EXTINF:0 tvg-id="CNBC.uk" group-title="Channels+",CNBC UK
+http://new.myindian.tv/api/m3u/stream/da6736e7be51d0b834b6654e04443c4be1e4b1f3734d2ff94458891bb917e772b8.m3u8
+#EXTINF:0 tvg-id="Zing.in" group-title="Channels+",Zing
+http://new.myindian.tv/api/m3u/stream/aa5bed5d29b460bd7c667823550321343faab11fc66179634f9c3f5dc4abeff7a1.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels+",BT Sport 3
+http://new.myindian.tv/api/m3u/stream/360fa0a00f8d8bc4fdb069d8848b6069deb1cc86f357690c453daf11e695018f27.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels+",AMC
+http://new.myindian.tv/api/m3u/stream/a7c8e258e7773f7c0d118080649dba04fd8396b7b2f0ae40dd75e92fe4a2a1a1d56d.m3u8
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Channels+",HBO East
+http://new.myindian.tv/api/m3u/stream/9642db21944323070063f7e0bfcf8ffdb859b786ef9a4ecc8bb2c997003b9fea0b5f.m3u8
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="Channels+",ZEE NEWS
+http://new.myindian.tv/api/m3u/stream/5cb4a9ee57752bac19b8ea9f789e079ad16de365bb49c3a7c6311e065db06136eab8.m3u8
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels+",Star Sports 1 HD
+http://new.myindian.tv/api/m3u/stream/0389f607c3b932a48249ceeeffdbd0f8dcafbce2b8abd04beb4ffe744c6392cf9f73.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star Vijay HD
+http://new.myindian.tv/api/m3u/stream/3fbbf9b4972da40ce9232316d02a2437c38ded419339b8f0717e011e6f7ebafaeca7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Puthiya Thalaimurai
+http://new.myindian.tv/api/m3u/stream/2328e1a5e3714bc7dc7c78beaafd5cd27bc62edfd1cb37d8aee5cc5bb0822e5a31d0.m3u8
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Channels+",SUN Music
+http://new.myindian.tv/api/m3u/stream/d3196e76575bdec900bc110130f68939c0e77fea0b4d652b9ea5740cd231ce2603a4.m3u8
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="Channels+",Kalaignar TV
+http://new.myindian.tv/api/m3u/stream/8fa72fa40621df0ac22f05634522797f55668c7cb0cf050bb29c67cc7a6cf17e021e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Zee Tamil
+http://new.myindian.tv/api/m3u/stream/ad051fe13e0073a66e7a8337b14e81c105351673d25fa7e0c493da83371fb2e79133.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Captain TV
+http://new.myindian.tv/api/m3u/stream/2f23af4679e655fa7f5a80c55b11d6943791536cb2c5dbfc5c847cb32651618158c8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Raj News Telugu
+http://new.myindian.tv/api/m3u/stream/239580a1bbd32ba96a9e85c5984747f585362732a5db0728e565016f19988653b302.m3u8
+#EXTINF:0 tvg-id="TimesNow.in" group-title="Channels+",Times Now
+http://new.myindian.tv/api/m3u/stream/53911f24dc2153d11cb86238ee75ac33cfdf8a786e4bd70b2f62393a74250bb10c26.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels+",BT ESPN HD
+http://new.myindian.tv/api/m3u/stream/c8197acc3d9dcb1bb6dda5342217c144d7b7b0261ec366d6596ddeb6cc2a79bba23c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",And TV  HD
+http://new.myindian.tv/api/m3u/stream/12ff37b9e2e4241054c60aa3beabe3c23e9314bac7257125575ad29d93c129790e25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",SonySix HD
+http://new.myindian.tv/api/m3u/stream/a724b3065b3be690ec2156e85841c91f57710aa8e129266cb53029de3fe899ddafcb.m3u8
+#EXTINF:0 tvg-id="FOXNews.uk" group-title="Channels+",Fox News
+http://new.myindian.tv/api/m3u/stream/fa08541d6b47460ba6961311443e78efe6b420291ad95b0df3087679d1b14aac340d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Udaya TV HD
+http://new.myindian.tv/api/m3u/stream/de33db4ed74d875ecca267f60b28d97d3acea2e4cf044bca83bd707b158f978197a0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Kannada HD
+http://new.myindian.tv/api/m3u/stream/bd8a68140f1b12b7cb4801acac74885fbd803de93f6a8c3d9ffc0402ec123a5376d8.m3u8
+#EXTINF:0 tvg-id="SaamTV.in" group-title="Channels+",Saam TV
+http://new.myindian.tv/api/m3u/stream/710773dcaf51989324c0f16c84143c341543dcb97b5b3bded5be14cefa78cfb01c4a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star Pravah HD
+http://new.myindian.tv/api/m3u/stream/f710aacbaa92e5744ec4cee14a362eb39bc64173d8ec4b8efb56f519b713effa606f.m3u8
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="Channels+",Gemini Movies
+http://new.myindian.tv/api/m3u/stream/c762f5f3ee3dd60974e9181202bf4e887278a5efb4515a6885ead599b43fb462444c.m3u8
+#EXTINF:0 tvg-id="GeminiTvHD.in" group-title="Channels+",Gemini TV  HD
+http://new.myindian.tv/api/m3u/stream/16aa2e2e36068e65a834d340232f5bdcf84499d06cc4e7f6b739f996decfbd4209d7.m3u8
+#EXTINF:0 tvg-id="AsianetMovies.in" group-title="Channels+",Asianet Movies
+http://new.myindian.tv/api/m3u/stream/9712c1ebed056f3b888645f6c193201244ee269291f31afe6c1c3c2d4171bd2d9bc2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",AsianetTV HD
+http://new.myindian.tv/api/m3u/stream/c19d61c870bb0e5645ca57fe2cca05e9cbee85857f0731f0893f35c55a1ee34b6485.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Marathi HD
+http://new.myindian.tv/api/m3u/stream/00a8655b568a7944c7e1c671f5af518026f490803ba964067adff9a5b4b56b3a4ef9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Zee Marathi IN HD
+http://new.myindian.tv/api/m3u/stream/daa80ad38c1b07ddc410eb9a047cca0bdacbc2624db345dcddb4ed945f9168b555d2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Maa TV HD
+http://new.myindian.tv/api/m3u/stream/a5c65025567e094a1f27327ee825fc1d4a3130489ec586249f902dffae9d5ac32cb6.m3u8
+#EXTINF:0 tvg-id="MaaGold.in" group-title="Channels+",Maa Gold
+http://new.myindian.tv/api/m3u/stream/5f62c640a9db0e71696cb811d195a7e3a7e921130bd2bada3c1a78a0d7f692c038cf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",ETV Telgu HD
+http://new.myindian.tv/api/m3u/stream/72fcb79abe81dae023461271eb1c35567acad3e06b79c354d8c0103b4b6d5f496ebb.m3u8
+#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="Channels+",Zee Telugu
+http://new.myindian.tv/api/m3u/stream/de5ea596ade5d0a7d644be80cd4e96fb2b1bcad74af6bdedc12aac08d6cf44a471eb.m3u8
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Channels+",Mazhavil Manorama
+http://new.myindian.tv/api/m3u/stream/d6ea8773debea49480363058d969f39cd0fe99571b08df6a8234e6cdc0b6619e76b3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",FlowersTV
+http://new.myindian.tv/api/m3u/stream/2237dfd8393666c6bd3abc787de64e3e6df1c6488e822f8f60ac04021134748c5052.m3u8
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="Channels+",AsiaNet News
+http://new.myindian.tv/api/m3u/stream/26f9e04d57a62ea533d8ec902e911c81f4df292d2312c0ab0e771f103f2bf9b4c696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Zee TV IN HD
+http://new.myindian.tv/api/m3u/stream/1ccbe0d24c02acdaae4aba205a81a7fafa59515d0eb902447370e9a527ed429224da.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Desi Music Punjabi
+http://new.myindian.tv/api/m3u/stream/b9caab004c19a219097c9b9d8a6655233a60a2d4f5e329de893e65ad7632c8a69ea9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Maa Movies HD
+http://new.myindian.tv/api/m3u/stream/87d7532a2022551d2bd3beaa8469ae77d05f3533be3e30387ead532ec0f319779f86.m3u8
+#EXTINF:0 tvg-id="RajTv.in" group-title="Channels+",Raj TV
+http://new.myindian.tv/api/m3u/stream/fd9c227bb8137eb74fa406b8d9f48056567bcf5d842664bcedf4dca1160c8d1994e4.m3u8
+#EXTINF:0 tvg-id="KiranTv.in" group-title="Channels+",Surya Movies
+http://new.myindian.tv/api/m3u/stream/7197b5f5f48c3921901ae094ee72a5240d80114513b00cfd3acca04d04629e1df299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Kairali News
+http://new.myindian.tv/api/m3u/stream/851bbbce958f8fad641a63a2e3274a49701cc2d240d0b6a1b46082fa55f08611b52c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",24 Tass
+http://new.myindian.tv/api/m3u/stream/dd130e76d5c111134a26c4e2626d43fd0cfb8bf30f4a127cbad87ddac96e51e20469.m3u8
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Channels+",Zee Talkies HD
+http://new.myindian.tv/api/m3u/stream/e6a9faa1a591be4492332acecc51891ded405395d4ab0ac4a0790b0347f4df1959d5.m3u8
+#EXTINF:0 tvg-id="UdayaMovies.in" group-title="Channels+",Udaya Movies
+http://new.myindian.tv/api/m3u/stream/3c32b9db5e226998f6af35859d9cc862fcaa68f774cfb2ee31d94cf64bbc237381b1.m3u8
+#EXTINF:0 tvg-id="RajMusicKarnataka.in" group-title="Channels+",Raj Music Kannada
+http://new.myindian.tv/api/m3u/stream/471412b08427918e8dc054ab6be0076539ba6e615ac1bc2d465a92a11a64a8a86978.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Dunya News PK
+http://new.myindian.tv/api/m3u/stream/3cf5444b72873ef8e30acc7b4bd22ceff79e9cfdc144662d578830b9419e3d16c041.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",SonyPix
+http://new.myindian.tv/api/m3u/stream/002f314e3d45eb75c70a25180044e93576336a01c2ff9f3f4a773cdcbbf7c80d88b2.m3u8
+#EXTINF:0 tvg-id="KalaignarSirippoli.in" group-title="Channels+",Sirippoli
+http://new.myindian.tv/api/m3u/stream/48a1f33c3159a3fcf01311f9e8dda0d69903cff3ac370332810020602ba83d09f9ac.m3u8
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Channels+",Star Sports 2 HD
+http://new.myindian.tv/api/m3u/stream/773a6e8b3e6c82c7712d04e34de5b095f8b5cb30eb24172b96ebae614359b3e75c32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star Sports 1 Hindi HD
+http://new.myindian.tv/api/m3u/stream/7e9ca12822f8042ac18c4cd0a4d06a8ec99260532e9b5954b2a1205c61b06b44e54e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",PTV Sports
+http://new.myindian.tv/api/m3u/stream/4e60af4964219b79fd3df97139f6095f1d8667eb18257dcc4eb6d4f6df586f634da7.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels+",Sony Entertainment HD
+http://new.myindian.tv/api/m3u/stream/3f6e3398db10dd5f6494f077cfe55f946d432261b3aa1e26b08fe8af384771b3da9f.m3u8
+#EXTINF:0 tvg-id="DDSports.in" group-title="Channels+",DD Sports
+http://new.myindian.tv/api/m3u/stream/35df36643e8236ee30ee7a4e2a1d306b1a78f66550218a4825a2d68f98d318642994.m3u8
+#EXTINF:0 tvg-id="EPIC.in" group-title="Channels+",EPIC
+http://new.myindian.tv/api/m3u/stream/9e071acf664f2626b4000680997ca32d31c17d5f74e8ab857d4d6d4b1d8bde0f31e8.m3u8
+#EXTINF:0 tvg-id="UTVMovies.in" group-title="Channels+",UTV Movies
+http://new.myindian.tv/api/m3u/stream/3f14e9d61756f0457105ac5a4a02194a84359996c8f0bf45d363c5a444b0228d2858.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels+",Zee Action
+http://new.myindian.tv/api/m3u/stream/86b7138d8c80a70b0a7b9ad5c06e8f49937ea855acbe20aef8c0629d5ea3998f8053.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Ten Sports 2 HD
+http://new.myindian.tv/api/m3u/stream/2335e9818365edf3319b42e626be5df2c9379f6a603242a2f780dbfcac5de6bc8234.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Discovery Hindi HD
+http://new.myindian.tv/api/m3u/stream/941bcbb9e5e7fd77b36d6adb72fe618bf32dc793da447b271963296199ff4f9ce42a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",And Pictures HD
+http://new.myindian.tv/api/m3u/stream/7518b535a18eb0160aa1cc2301ef297af521ee5088cc71a7e3ca96aa3e497f4553da.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Aastha Bhajan
+http://new.myindian.tv/api/m3u/stream/40641c0119dae86adb05b6959d3c75b1e1b6de4ecca1deeeebfb80b806800b15257f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TV9 Telugu
+http://new.myindian.tv/api/m3u/stream/43665e37d84e918d411e3e396c5a3d7f832ec8bf6e887b52bfa87a62f5334e305fec.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",MATHRUBUNMI NEWS
+http://new.myindian.tv/api/m3u/stream/d9d6f2a2275b45faaeeb796c02bb2298cde62a9aa3e7c0a563c267ae0f84e33a5df7.m3u8
+#EXTINF:0 tvg-id="ZeeKannada.in" group-title="Channels+",Zee Kannada IN
+http://new.myindian.tv/api/m3u/stream/d5046ad034b6edf0e9b703f8b9fbd7bd3a156331af283382d0f2ff08e3d613dde822.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Ten Sports 1 HD
+http://new.myindian.tv/api/m3u/stream/0d5826d70f936d2a2c380a528f6eddce0f21127ee01056e997e37621e5719dc016ab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TEN Sports 3 HD
+http://new.myindian.tv/api/m3u/stream/ae0c5240ba7911e50322769c7327cfb49d78555c5c4705c7b2cb5ea39cdaf607ea6a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Cineplex
+http://new.myindian.tv/api/m3u/stream/3aa299667f61b96b9bc088b249fb0d127cdc72cd7905467dda24714b5ca4cbc951b8.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels+",Zee Cinema HD
+http://new.myindian.tv/api/m3u/stream/800c47ef14a20b8dfd43c9b20c747f92811dff31e4e4fc349d07cbf4a2a0d83e35e3.m3u8
+#EXTINF:0 tvg-id="NDTVGoodTimes.in" group-title="Channels+",NDTV Good Times
+http://new.myindian.tv/api/m3u/stream/f887fc60c63df7c82f443113d9d5e6e2d63970e4e6be9221e992816f9091eaae9af4.m3u8
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Channels+",Star Sports Select 1 HD
+http://new.myindian.tv/api/m3u/stream/7e5d44ec1afd3f1acafab97c2c470e257119e07a8de76e1480e6cdbc89710442d3e0.m3u8
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Channels+",Star Sports Select 2 HD
+http://new.myindian.tv/api/m3u/stream/3a4431a61d0b7d9717fabec4419006ce6c63738de22acddceec3cd1822bd15c4d657.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.in" group-title="Channels+",Discovery Kids
+http://new.myindian.tv/api/m3u/stream/f181cbae451337ac7ae7e15628ed8e595a9b1699c6223196ccfe1699cae62286e997.m3u8
+#EXTINF:0 tvg-id="DDNational.in" group-title="Channels+",DD National
+http://new.myindian.tv/api/m3u/stream/399830c3de4c1a95df5000a37bc818e5544884bedbdfcc1d9190c3740866be3bb52e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",MH1 Punjabi HD
+http://new.myindian.tv/api/m3u/stream/2c33266f9989c571d6ab0098a2d276761864ab70f6c6054ee1870b26f693bdee0b52.m3u8
+#EXTINF:0 tvg-id="9XM.in" group-title="Channels+",9xM
+http://new.myindian.tv/api/m3u/stream/66d38cf5dd48b47979da3fcfae350a999806bd1fbcc058f097d4974b5e07aa3d3b6e.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Channels+",Sony Max HD
+http://new.myindian.tv/api/m3u/stream/7e414d1145da9f2b8bdc361eb76ab32f097409fccacae5d2749f2e6fb3f2d89bb177.m3u8
+#EXTINF:0 tvg-id="TV9Kannada.in" group-title="Channels+",TV9 Kannada
+http://new.myindian.tv/api/m3u/stream/f3a901548d8b6918fa520e550abcfcfe2e6a73a6ef7c243c0590e2985ee5c5cf5d69.m3u8
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="Channels+",Polimer TV
+http://new.myindian.tv/api/m3u/stream/fcb07820cbddac2ef4fc526c9aa910cce0bfdd5c3e05e44df4451de4d93e03d8c1d4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Amrita
+http://new.myindian.tv/api/m3u/stream/8c1a84b303bc8ba0dc6ecf15233a302aa86857540963f15b469de68b9ebf9ac42cc1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",WeTv
+http://new.myindian.tv/api/m3u/stream/f57276de7493fbe46d3d60263294e59901fe565f1336986c01be94f3d60ec6afe203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star Jalsha IN HD
+http://new.myindian.tv/api/m3u/stream/eed67e8fd77de3e10b833b11729348be0134c73f3911bb4422cd6c06b2c59ff03b45.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Channels+",Zee Bangla HD
+http://new.myindian.tv/api/m3u/stream/cdad3d37df557b3504c4da76399af9e4a66e5b01c02eb22f434f80e87615c06719bf.m3u8
+#EXTINF:0 tvg-id="MTVBeats.uk" group-title="Channels+",MTV Beats
+http://new.myindian.tv/api/m3u/stream/cab8ad2efef97c1ccf6db70d659610f24af820697a31f8490b3ae8003266dedcedad.m3u8
+#EXTINF:0 tvg-id="StarPlusHD.in" group-title="Channels+",Star Plus HD
+http://new.myindian.tv/api/m3u/stream/59833c9666fbf6e34794207dcadc1925d784b1ccc0993bea65b4fab0486356dc3726.m3u8
+#EXTINF:0 tvg-id="SuvarnaNews24x7.in" group-title="Channels+",Suvarna News
+http://new.myindian.tv/api/m3u/stream/dc5611669bc89fe6685967e391953ad598cfc8d6a81ac4d74d6b393299a984cad135.m3u8
+#EXTINF:0 tvg-id="HBO.in" group-title="Channels+",HBO India
+http://new.myindian.tv/api/m3u/stream/1765a8990f033732ac3699e5d78d0b634a0106c04d252912a793f4558e5f437af0c1.m3u8
+#EXTINF:0 tvg-id="MTVIndia.us" group-title="Channels+",MTV India
+http://new.myindian.tv/api/m3u/stream/1100fee519dfdf3d7aa30fc8418dbf80cea943409dd83a39d9ada70a07b29558d744.m3u8
+#EXTINF:0 tvg-id="NationalGeographicChannelHD.in" group-title="Channels+",National Geographic HD
+http://new.myindian.tv/api/m3u/stream/8c997f92184c0bb8245e80db8a5e252e6fb90e06db49f47f5ad1b6ad604a7dc10875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Care World
+http://new.myindian.tv/api/m3u/stream/9543e9e3318e254918c95c84889c6dc1105717a02b7d5e6653637437efd03ebb5163.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Zee ETC Bollywood
+http://new.myindian.tv/api/m3u/stream/26e9fa114afe4627eb80f1eecb3b424b35abaa7b19a6b65c04c46cf69f70cec6539d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Zee Bangla Cinema
+http://new.myindian.tv/api/m3u/stream/dc17d57172c69a47cc901bb973cb543acd01aa1fe692e5c2a7b33d1d6953741df26f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Satsang TV
+http://new.myindian.tv/api/m3u/stream/9641bc42426e5cca4210a8735e345759aabd8571ac76d33d100cf72dbd11c3e35c7e.m3u8
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Channels+",9x Jalwa
+http://new.myindian.tv/api/m3u/stream/c0e838cce92c36ba4fc93efceff6f01854022bb27be097f2d8ec96eb8b37e2bda1b4.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels+",CNN US
+http://new.myindian.tv/api/m3u/stream/c361fa7884acaba51723c9231858e314b365c4c275de23a0c6000ff62def7d9da50d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Raj News Tamil
+http://new.myindian.tv/api/m3u/stream/65b73e47faba5ad2e585f4d0e0904b0fcb588e9f5c7e71cf7b5b5867ffa2843fa36e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",NEWS 18 Rajasthan
+http://new.myindian.tv/api/m3u/stream/f165b36e256a26e2ae5eb2cae30c6cab6f2b4a28a48e52884ca8cc604890d34870a6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",D Sports
+http://new.myindian.tv/api/m3u/stream/76a29db97e0977478b66fe7f426a7d68fd73ca877b8cd0f02c4576b9675767386470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Vijay Super
+http://new.myindian.tv/api/m3u/stream/eceb321b294508ecde54f21a82a78f06a5e12b431e49c0c95ae96fb16aa19e2bb954.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",DD Punjabi
+http://new.myindian.tv/api/m3u/stream/36621172e3c9049c54d25357a28f7ff5204d891e5d836f0f8318a477aa5f34ec9ee9.m3u8
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Channels+",PTC Chakde
+http://new.myindian.tv/api/m3u/stream/0a3ca7cc599781dd1978cec4cd9e05965a3f04edd52a752087fb9577a81ba54d1f40.m3u8
+#EXTINF:0 tvg-id="PTCNews.in" group-title="Channels+",PTC News
+http://new.myindian.tv/api/m3u/stream/d2007f1857a61a0d164b8913bf4a7246705e7957da0e5d3b9337e6563751719cee92.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Canada One
+http://new.myindian.tv/api/m3u/stream/4131a55a60e14f80255d8d2194e93170e32cceeb3f022442a27b7583e340ff471d5e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Toronto 360 HD
+http://new.myindian.tv/api/m3u/stream/3ff8698bc4187e159f4d6fa3618500e1c036c234cc1854c2cae5779e200d35aa2963.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Super Kannada
+http://new.myindian.tv/api/m3u/stream/16069a585dcc18522d658744e019f1e9ae430d1d882376fffc16b8170c6175af6e74.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Bangla HD
+http://new.myindian.tv/api/m3u/stream/4cbe6d8934030d8a0cbc9bb08e3e50ef6a9ad3209295f90ec078beb03280a0286ef9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Raj News Kannada
+http://new.myindian.tv/api/m3u/stream/d3ae8dc5c1ce5e2c3719c87c9cfba895c0d9dd407563832d78a239c7eea3eedd184d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Raj News Malayalam
+http://new.myindian.tv/api/m3u/stream/4502c19e02467f43926d9667204acd2257dc6365b0376f5fb1d6cf0b8df006f096bb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Star jalsha Movies HD
+http://new.myindian.tv/api/m3u/stream/06a2498b96a58da4e20e66b4072798cad13eb6781ab954f203eaf1d99f1c45cbbc7d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Republic TV
+http://new.myindian.tv/api/m3u/stream/5f5deef0196cd15e690f9fb117335f1837ae61d4c187f6a92bb7cd03e10e95ee7389.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Gemini Comedy
+http://new.myindian.tv/api/m3u/stream/9ad06394499d50ea8ab8c31645d761c210551525ec248b9703c04f4aabdf81cd8060.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Travelxp EN HD
+http://new.myindian.tv/api/m3u/stream/7cb29732a1a0c202ff04e5cf63ff29c4b78052c8aac9956659490f2bb7d21a62b533.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Pitaara Punjabi tv
+http://new.myindian.tv/api/m3u/stream/e0360c0e707045e3a6396fa7af77e2f4047332f22ee109e47d0c9744e73144df5117.m3u8
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Channels+",Zee Punjabi
+http://new.myindian.tv/api/m3u/stream/89d8cafdfecdcda7e94c9b19f39d531d7f69d5135606fff822f8f9f4afa65ccd5196.m3u8
+#EXTINF:0 tvg-id="BabyTV.in" group-title="Channels+",Baby TV
+http://new.myindian.tv/api/m3u/stream/dedc2c1938d7b46a7060f92fa8f0feee12a73be4ed3e96e418763e92343c6facceaa.m3u8
+#EXTINF:0 tvg-id="JayaMax.in" group-title="Channels+",Jaya Max
+http://new.myindian.tv/api/m3u/stream/a60fdcdf75d63aa770801f60d7bbf51e86172ee6405c9a65fef29f6bda9919457a55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Sun Life
+http://new.myindian.tv/api/m3u/stream/51f8fd76912810159d4fa0bf6ea87f406716775f3418f0e4851b9ece9fd4740b12ef.m3u8
+#EXTINF:0 tvg-id="SunNews.in" group-title="Channels+",Sun News
+http://new.myindian.tv/api/m3u/stream/91d0b4217674dd56b03338ffb1ec33a44f63a4cde6c5cbf987dc036f073c3efe136a.m3u8
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="Channels+",Star World HD
+http://new.myindian.tv/api/m3u/stream/159c4a72eaac2daee016578d08599d9e92d7c2e776bc1f72cb581aacc28457b06702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Colors Tamil HD
+http://new.myindian.tv/api/m3u/stream/03e7336f276728dcdd517ca40501d6d6efa7b48b5dc81a134906f2df2a11171d4904.m3u8
+#EXTINF:0 tvg-id="ZeeCafe.in" group-title="Channels+",Zee Cafe HD
+http://new.myindian.tv/api/m3u/stream/68cff25991911f7c6679c4805e83846244d8c75d8aa519a6040b1ae914ce0e3e857e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Prime Asia Punjabi
+http://new.myindian.tv/api/m3u/stream/ecbaca27ec05f61da79908647626e6d201be967ea1dd2243fb58422b9a2261fe052e.m3u8
+#EXTINF:0 tvg-id="Sanskar.uk" group-title="Channels+",Sanskar
+http://new.myindian.tv/api/m3u/stream/16ee1e3d4aedec4db406240dd72ce54ffacadb4b47a470f9aa037eb7da52f78a4138.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Channels+",Romedy Now HD
+http://new.myindian.tv/api/m3u/stream/1795b9c57db6790238aafd14893811c2660aad9c77e500f621685ca59bd0e76144f3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",KUSHI TV Telugu
+http://new.myindian.tv/api/m3u/stream/6a71f241e0cd3400ec43f78f7c13c524565ec7da6a7e1b478cafc1f80c325891ad5e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Vissa tv
+http://new.myindian.tv/api/m3u/stream/61c2c8ed0af155e2c4dfcb2a78868dd591e01b227c6f436731d7ff48b929af175710.m3u8
+#EXTINF:0 tvg-id="BhaktiTV.in" group-title="Channels+",Bhakti tv
+http://new.myindian.tv/api/m3u/stream/6fb0a9e131001d7fe9ab6c2269d4947665cf31331a7dc66acbac70d9f88fe4370277.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Gemini Music HD
+http://new.myindian.tv/api/m3u/stream/dffc0a432cb837cb818c0f8c2758bd88f0732faea37a7906492b92a336362ed1538e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TTN Tamil HD
+http://new.myindian.tv/api/m3u/stream/2bc3d775e026498d986ae6312fe0a3d826e5c55416f541c538d54603b8b15af4ef4e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Suvarna TV HD
+http://new.myindian.tv/api/m3u/stream/724c599f10d6cc2ea254df3519470f6878d98ce51f679be693fe7cd73f62f3783969.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",DD Chandana Kannada
+http://new.myindian.tv/api/m3u/stream/60eb5a708799824a4ab0eddbfaac3daea0cefe29ef67f1e451f7d002a5099e72d82a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",V6 News Telugu
+http://new.myindian.tv/api/m3u/stream/4baf00da4fb75ab683330a929617809efe9fe40a6760a273ef2e21ccb0137ec06e22.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",POGO kids
+http://new.myindian.tv/api/m3u/stream/bc435dd3e905dcff3be86a4898c85daaeeba8a135f760474adddbfcbadae45d3a0c1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Cartoon Network Hindi
+http://new.myindian.tv/api/m3u/stream/894a6e7fca99fd9321ee9fb6d1826d4c256a85ccb0ade45e06be8a4d4bc8d8b8eec6.m3u8
+#EXTINF:0 tvg-id="DisneyXD.in" group-title="Channels+",Disney xd
+http://new.myindian.tv/api/m3u/stream/ffdf870e6d4bd15373c7e93dc9a35fdb3f8cb737e000485f6a40867ccb350833c626.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",CN PLUS HD
+http://new.myindian.tv/api/m3u/stream/f1c0d0eca37e03ff01123859507a425b7fb0a2dd649599cd9e191e1025c5001a631b.m3u8
+#EXTINF:0 tvg-id="DisneyInternationalHD.in" group-title="Channels+",DISNEY INTERNATIONAL HD
+http://new.myindian.tv/api/m3u/stream/9cbb32fa85d20c83d95d881353a1e2682daecb149aa88e4fc7f4224a47bc4e3b262f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",NICK PLUS HD
+http://new.myindian.tv/api/m3u/stream/d7f2efcdaf991934330a71c61840f5a232f280537f5c91782aa494db58d01c87064b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",BABY TV HINDI
+http://new.myindian.tv/api/m3u/stream/77ae8a90ec0b4afe6059b9e63b87e98a536f432214ca3b1af90fc4bac0742b06cf9e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Sony Marathi HD
+http://new.myindian.tv/api/m3u/stream/bf3e169da9c345c16b04f9caada333ba6c73aa19c1454c978d4e7fbe5fd5d6806f38.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",KANNADA | DIGHVIJAY NEWS
+http://new.myindian.tv/api/m3u/stream/b08b1a05b200aac06e108968cf1a86806e36b2bfa628c32c83934f8f3e8277fbd4ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",BLOOMBERG INDIA
+http://new.myindian.tv/api/m3u/stream/2fe668fb7987dc545d1db2901bae27648909fb0c27f54143a2b5af0355e23e7a9d21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",GUJARAT | INDIA NEWS GUJARAT
+http://new.myindian.tv/api/m3u/stream/ec2840d60945f05c22ea83689cd9eba00f05e2a0df48095f651fa37c45c4ff37e12b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",GUJARATI | SANDESH NEWS
+http://new.myindian.tv/api/m3u/stream/892f1f78f2c57306d47c64e8f8dae6034afeed41b8cda1af07b4dd7508bb897af312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",GUJARATI | VTV NEWS
+http://new.myindian.tv/api/m3u/stream/9c651beb65de2f1666fa4d58c93a03a078d05aff85757792520cd2252b1d6e579751.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",GUJARATI | MANTAVYA NEWS
+http://new.myindian.tv/api/m3u/stream/8df6182e4fd55db4e66b9456f948aeb4099753e855727623a0b1a7d2f6741e86bab6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",GUJARATI | GSTV NEWS
+http://new.myindian.tv/api/m3u/stream/cd2442b64f85514ec02e59cad1113fccfba7d93a554ce5a3dd6e93514430c68bd366.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",MALAYALAM | MANORAMA NEWS
+http://new.myindian.tv/api/m3u/stream/5d845b5be6bdbef06baa894db26a01a8bbf6666e02b732faf94db3c99b92bce33375.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TELUGU | TV5 NEWS
+http://new.myindian.tv/api/m3u/stream/0e0a275fa4799532f434ec963529af254c0c022974aa51c0cf5c4d601f66bcfb9b06.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TAMIL | NEWS 18 TAMIL NADU
+http://new.myindian.tv/api/m3u/stream/ee7c6e523653e0961e56661430db3a0412b32462fad228fc97f0614da8cee97b01fa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",News 7 Tamil
+http://new.myindian.tv/api/m3u/stream/72e0d4371b1b29f06118b447c6e52db807de50bcb5049f502e89c3238ad578ee6666.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Captain News Tamil
+http://new.myindian.tv/api/m3u/stream/47122d2d726d414b5b8b0ff251827ac0bdf0b697f93da616406b121325b8dd1c3086.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",WIN News Tamil
+http://new.myindian.tv/api/m3u/stream/e4c2dc12ba6b15bbae00019198ede59cad23ab1760ba7fde399a0a56ed1161c30e63.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",INDIA News Punjabi
+http://new.myindian.tv/api/m3u/stream/f690df9e3fed8c1b7efa97b85138b0267c5d31b4bd0d617c3ca3d1f5d777dda9e978.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",DD News HD
+http://new.myindian.tv/api/m3u/stream/cda36144b83e87b26a39825eba17a4326255100eb8aeecf25e3e7c40505e9f495d8b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",DD BHARTI
+http://new.myindian.tv/api/m3u/stream/f884d1b8bafb6bbc227fe8ab7e86112add9c015f62ff16da6cbc3adc445fe37f6088.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TAMIL | DISCOVERY
+http://new.myindian.tv/api/m3u/stream/505410872b5eeaf2d154541269e5153b5903413cebfb081e072a591e9fcc31dc3fae.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TAMIL | HISTORY
+http://new.myindian.tv/api/m3u/stream/ac277d3ddf0baca7c8ea1c877c5f411a768fe461cadae1b8e4efe3f271b01e6b042e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",TAMIL | SONY BBC EARTH HD
+http://new.myindian.tv/api/m3u/stream/239d1dcf55a24c7ed40760cc7a216997dcb00a606f49039d36ad3b9f1de91f201850.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",BBC EARTH EN HD
+http://new.myindian.tv/api/m3u/stream/17d31bba35c4d3246bcfbb434d8ee75becf9ccf33bb5d6f6bbea14e808fe4979faab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",PTC Punjabi Gold.
+http://new.myindian.tv/api/m3u/stream/cb950f9cfc90331f9610ab79ba18b7e6242b7b44267602a43d93e3f825ce1a182595.m3u8
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels+",Sky Cinema Action
+http://new.myindian.tv/api/m3u/stream/f98ed0a2fe4c25cfc58cd98b494651bb07e57f861bec59ec0b5611ba18600a790123.m3u8
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels+",Sky Cinema Disney
+http://new.myindian.tv/api/m3u/stream/a90085111086dd72c85d457301146587bec4fef15a6cfbb5f5abfae94ad786c2c576.m3u8
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels+",Sky Cinema Drama HD
+http://new.myindian.tv/api/m3u/stream/71de90c9a096cfd9f25018d4b4a8a869109e2e8ea2e7a5f10d57a0a4c54a7acbf951.m3u8
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels+",Sky Cinema Family HD
+http://new.myindian.tv/api/m3u/stream/6a673abfc7b0f541315994cc8a1dce4f9cb3723b6f35d6bef004125a6fdc2ea6fbd3.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels+",Sky Cinema Hits HD
+http://new.myindian.tv/api/m3u/stream/1c4868ece55e43fb202b58bfba01e76bcc1c2150ab9916477b6d8f51228895c0d4c1.m3u8
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels+",Sky Cinema Premier HD
+http://new.myindian.tv/api/m3u/stream/f1172518ee425d0b8026da326cfdf448d0826472778e5779633841c445b5d0be40a4.m3u8
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels+",Sky Cinema Sci-fi HD
+http://new.myindian.tv/api/m3u/stream/cc1246a738b65be55feac9cfdf738f070c3671074d3ecd3963c3e20e404f7924b0ee.m3u8
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels+",Sky Cinema Select
+http://new.myindian.tv/api/m3u/stream/7a544fe5bbdccea2b3b5d720264756bc949034aa8d5ab75a6adcf0329ccc6ad8ef0f.m3u8
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Channels+",Sky Cinema Thriller HD
+http://new.myindian.tv/api/m3u/stream/f340a2f6da944f433ff6f782db6430283de6bc0b8a848774df28e36bd67826a87a32.m3u8
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels+",FXX
+http://new.myindian.tv/api/m3u/stream/6bf847be733352ce72d5bb63561925c84a6390fcdf89a70e7affc51cd63584ca9918.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Court TV Mystery
+http://new.myindian.tv/api/m3u/stream/40da6b884f177f0dcf8185041d0271d82ef789ffea0904d80e60ea3814292beb0ba0.m3u8
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels+",CBS Justice
+http://new.myindian.tv/api/m3u/stream/0731d029eca054e37a61543ba76ce4c03a74a91108c15e9e2094fd01ef164f92211d.m3u8
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels+",Starz
+http://new.myindian.tv/api/m3u/stream/cbe186c16eaaeab3907ac086e0d45a92bbb405ddc0241e4611ecdb29dd43fe99ed51.m3u8
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels+",Starz Encore
+http://new.myindian.tv/api/m3u/stream/7a00c9a2f41576099423caa74864955b6ead6a8a7b987a4eaebb54d2d04ba875deb4.m3u8
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels+",HGTV
+http://new.myindian.tv/api/m3u/stream/a30f533aae9e8678e30ff8a595f2ce59d1e7d0b85e172a460d2a145f9c7bf8cea03b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",EURO NEWS UK
+http://new.myindian.tv/api/m3u/stream/975f3c3c032ce9fedd571dee91f72b5d0a9c22f59f02be7ba304e392792cbb8d40e5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Travel xp Tamil HD
+http://new.myindian.tv/api/m3u/stream/73ccdac19df2ff7b378e0e5b56e62a180498fad052783fff6dfed5951e7d32ce87df.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Asianet Plus Malayalam
+http://new.myindian.tv/api/m3u/stream/89a481f5ad87b17f7ab2108ffc0608299b5aa90f801c83e4b811c0574d0e348af201.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels+",Hungama Kids
+http://new.myindian.tv/api/m3u/stream/b3622e4d967cd58af54f412f11bcd3d9bed6839b341956a23cb314f60d788b7a1750.m3u8
+#EXTINF:0 tvg-id="ZeeBusiness.in" group-title="Channels+",Zee Business
+http://new.myindian.tv/api/m3u/stream/e9bac3c58847f26ef6d65ec1fa7868f5420a1d2b790fd0d64cc334f290e3c31e9815.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Anjaam Pathiraa (2020)
 https://watchindia.net:8443/movie/52651/57459/1076.mkv
 #EXTINF:0 tvg-id="avi" group-title="Videos",Varane Avashyamund (2020)

@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0 tvg-id="Pictures.in" group-title="Channels",& Pictures
 https://watchindia.net:8443/live/69520/88479/818.ts
@@ -1720,10 +1719,10 @@ https://watchindia.net:8443/movie/69520/88479/2077.mkv
 #EXTINF:0 tvg-id="avi" group-title="Videos",She (2019)
 https://watchindia.net:8443/movie/69520/88479/2078.mkv
 #EXTINF:0 tvg-id="avi" group-title="Videos",Penguin (2020)
-https://watchindia.net:8443/movie/69520/88479/2079.mkv
+https://watchindia.net:8443/movie/69520/88479/2079.
 
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="Channels+",VIEWER CHANNEL 0
 http://luckonline.eu:8080/XfA95Zpd5g/6844138843/1692
 #EXTINF:0 tvg-id="ext" group-title="Channels+",KIDS MOVIES- NEW RELEASES

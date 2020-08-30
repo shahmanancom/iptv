@@ -9,13 +9,13 @@ https://watchindia.net:8443/live/32913/49212/782.ts
 https://watchindia.net:8443/live/32913/49212/2088.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sony BBC Earth HD
 https://watchindia.net:8443/live/32913/49212/789.ts
-#EXTINF:0 tvg-id="SonyTVHD.in" group-title="Channels",Sony TV HD
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony TV HD
 https://watchindia.net:8443/live/32913/49212/1969.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sony TV HD UK
 https://watchindia.net:8443/live/32913/49212/2117.ts
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="Channels",Sony Max HD
 https://watchindia.net:8443/live/32913/49212/788.ts
-#EXTINF:0 tvg-id="SonyMax2.in" group-title="Channels",Sony Max 2
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Channels",Sony Max 2
 https://watchindia.net:8443/live/32913/49212/2024.ts
 #EXTINF:0 tvg-id="SonyPal.in" group-title="Channels",Sony Pal
 https://watchindia.net:8443/live/32913/49212/812.ts
@@ -23,9 +23,9 @@ https://watchindia.net:8443/live/32913/49212/812.ts
 https://watchindia.net:8443/live/32913/49212/781.ts
 #EXTINF:0 tvg-id="LifeOk.in" group-title="Channels",Star Bharat HD
 https://watchindia.net:8443/live/32913/49212/780.ts
-#EXTINF:0 tvg-id="StarPlusHD.in" group-title="Channels",Star Plus HD
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Channels",Star Plus HD
 https://watchindia.net:8443/live/32913/49212/1924.ts
-#EXTINF:0 tvg-id="StarPlus.in" group-title="Channels",Star Plus
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Channels",Star Plus
 https://watchindia.net:8443/live/32913/49212/1925.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold India HD
 https://watchindia.net:8443/live/32913/49212/785.ts
@@ -33,9 +33,9 @@ https://watchindia.net:8443/live/32913/49212/785.ts
 https://watchindia.net:8443/live/32913/49212/784.ts
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="Channels",Star Movies HD
 https://watchindia.net:8443/live/32913/49212/2080.ts
-#EXTINF:0 tvg-id="HBOHits.in" group-title="Channels",HBO HD
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
 https://watchindia.net:8443/live/32913/49212/2081.ts
-#EXTINF:0 tvg-id="ZeeTVHD.in" group-title="Channels",Zee TV HD
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Channels",Zee TV HD
 https://watchindia.net:8443/live/32913/49212/1970.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zee TV HD USA
 https://watchindia.net:8443/live/32913/49212/1971.ts
@@ -53,11 +53,11 @@ https://watchindia.net:8443/live/32913/49212/787.ts
 https://watchindia.net:8443/live/32913/49212/802.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zee Etc
 https://watchindia.net:8443/live/32913/49212/824.ts
-#EXTINF:0 tvg-id="ZeeNews.in" group-title="Channels",Zee News
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Channels",Zee News
 https://watchindia.net:8443/live/32913/49212/832.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zee World
 https://watchindia.net:8443/live/32913/49212/806.ts
-#EXTINF:0 tvg-id="Zoom.in" group-title="Channels",Zoom
+#EXTINF:0 tvg-id="zoom" group-title="Channels",Zoom
 https://watchindia.net:8443/live/32913/49212/842.ts
 #EXTINF:0 tvg-id="10-tv" group-title="Channels",10 TV
 https://watchindia.net:8443/live/32913/49212/981.ts
@@ -159,7 +159,7 @@ https://watchindia.net:8443/live/32913/49212/2.ts
 https://watchindia.net:8443/live/32913/49212/1291.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",B4U Plus
 https://watchindia.net:8443/live/32913/49212/823.ts
-#EXTINF:0 tvg-id="B4UMusic.in" group-title="Channels",B4U Music
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Channels",B4U Music
 https://watchindia.net:8443/live/32913/49212/2113.ts
 #EXTINF:0 tvg-id="BhaktiTV.in" group-title="Channels",Bhakti TV
 https://watchindia.net:8443/live/32913/49212/977.ts
@@ -201,7 +201,7 @@ https://watchindia.net:8443/live/32913/49212/983.ts
 https://watchindia.net:8443/live/32913/49212/801.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CVR News
 https://watchindia.net:8443/live/32913/49212/975.ts
-#EXTINF:0 tvg-id="DiscoveryChannel.in" group-title="Channels",Discovery
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",Discovery
 https://watchindia.net:8443/live/32913/49212/2085.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dan News
 https://watchindia.net:8443/live/32913/49212/859.ts
@@ -213,7 +213,7 @@ https://watchindia.net:8443/live/32913/49212/927.ts
 https://watchindia.net:8443/live/32913/49212/303.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",DD Saptagiri
 https://watchindia.net:8443/live/32913/49212/974.ts
-#EXTINF:0 tvg-id="DiscoveryHD.in" group-title="Channels",Discovery HD
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Channels",Discovery HD
 https://watchindia.net:8443/live/32913/49212/841.ts
 #EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
 https://watchindia.net:8443/live/32913/49212/793.ts
@@ -347,7 +347,7 @@ https://watchindia.net:8443/live/32913/49212/786.ts
 https://watchindia.net:8443/live/32913/49212/880.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Nambikkai TV
 https://watchindia.net:8443/live/32913/49212/856.ts
-#EXTINF:0 tvg-id="NationalGeographicChannelHD.in" group-title="Channels",National Geographic HD
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",National Geographic HD
 https://watchindia.net:8443/live/32913/49212/790.ts
 #EXTINF:0 tvg-id="NDTV.uk" group-title="Channels",NDTV News
 https://watchindia.net:8443/live/32913/49212/831.ts
@@ -437,7 +437,7 @@ https://watchindia.net:8443/live/32913/49212/1301.ts
 https://watchindia.net:8443/live/32913/49212/288.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Shekinah TV
 https://watchindia.net:8443/live/32913/49212/1302.ts
-#EXTINF:0 tvg-id="SonyEntertainmentTV.in" group-title="Channels",Sony
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",Sony
 https://watchindia.net:8443/live/32913/49212/919.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Stage Darama
 https://watchindia.net:8443/live/32913/49212/1031.ts
@@ -471,11 +471,11 @@ https://watchindia.net:8443/live/32913/49212/1068.ts
 https://watchindia.net:8443/live/32913/49212/860.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Thanthi TV
 https://watchindia.net:8443/live/32913/49212/947.ts
-#EXTINF:0 tvg-id="TimesNow.in" group-title="Channels",Times Now
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="Channels",Times Now
 https://watchindia.net:8443/live/32913/49212/839.ts
-#EXTINF:0 tvg-id="TLC.in" group-title="Channels",TLC
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC
 https://watchindia.net:8443/live/32913/49212/840.ts
-#EXTINF:0 tvg-id="TravelXP.in" group-title="Channels",Travel XP
+#EXTINF:0 tvg-id="TravelXP.eu" group-title="Channels",Travel XP
 https://watchindia.net:8443/live/32913/49212/872.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TravelXP HD
 https://watchindia.net:8443/live/32913/49212/792.ts
@@ -1780,10 +1780,6 @@ https://watchindia.net:8443/movie/32913/49212/2110.mkv
 https://watchindia.net:8443/movie/32913/49212/2111.avi
 #EXTINF:0 tvg-id="avi" group-title="Videos",Virgin Bhanupriya (2020)
 https://watchindia.net:8443/movie/32913/49212/2112.mkv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA",1 Yes TV
-http://150.242.21.2/oneyes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News Malayalam (New!)
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
